@@ -1,0 +1,6 @@
+print('IMC')
+peso=int(input('Inorme seu peso:'))
+altura=float(input('inorme a sua altura:'))
+altura2=altura*altura
+reultado=peso/altura2
+print(f'o imc é: {resultado'})
